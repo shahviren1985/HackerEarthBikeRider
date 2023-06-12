@@ -1,0 +1,12 @@
+/*
+!.gitignore
+
+
+# Unity3D related
+!/Assets
+!/Readme.md
+!/ProjectSettings
+*.unitypackage
+
+# Mac-OSX related
+.DS_Store
